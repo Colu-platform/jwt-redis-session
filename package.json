@@ -9,12 +9,7 @@
       "url": "alec@azuqua.com"
     }
   ],
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://opensource.org/licenses/mit-license.php"
-    }
-  ],
+  "license": "https://www.colu.co/TOS",
   "repository": {
     "type": "git",
     "url": "git://github.com/azuqua/jwt-redis-session"
